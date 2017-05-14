@@ -1,5 +1,7 @@
 # mag-process-info [![Build Status](https://travis-ci.org/mahnunchik/mag-process-info.svg)](https://travis-ci.org/mahnunchik/mag-process-info)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mahnunchik/mag-process-info.svg)](https://greenkeeper.io/)
+
 [Mag](https://github.com/mahnunchik/mag) is the streaming logger for NodeJS
 
 `mag-process-info` is transform stream that adds the following information about process:
